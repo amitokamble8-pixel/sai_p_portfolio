@@ -63,7 +63,7 @@ export const PROFILE = {
     youtube: "",
     instagram: "",
   },
-  cv: "/placeholder.pdf", // TODO: add the CV PDF here
+  cv: "", // TODO: add the CV PDF here
   photo: "/placeholder.png",
   aboutPhoto: "/placeholder.png",
 };
